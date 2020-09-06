@@ -1,24 +1,3 @@
-# test
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## A simple calculator with VueJS
+![Capture](https://user-images.githubusercontent.com/63465728/92329832-0a8ebb00-f01f-11ea-8d2b-d35824f9b8d6.PNG)
+### ⭐ This is my first repository, please view and star this source ⭐
